@@ -24,12 +24,9 @@
 <img align="left" title="C++" alt="C++" height="35px" src="./logos/cpp_coloured.png" />
 <img align="left" title="HTML5" alt="HTML5" width="35px" src="./logos/html5_coloured.png" />
 <img align="left" title="CSS3" alt="CSS3" width="35px" src="./logos/css3_coloured.png" />
-<img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="./logos/Bootstrap.png" />
 <img align="left" title="JS" alt="JavaScript" height="35px" src="./logos/javascript_coloured2.png" />
 <img align="left" title="ReactJS" alt="ReactJS" height="35px" src="./logos/react_colored.png" />
-<img align="left" title="FIGMA" alt="FIGMA" height="35px" src="./logos/figma.svg" />
-
- 
+<img align="left" title="NodeJS" alt="NodeJS" height="35px" src="./logos/nodejs.png" />
 
 <br>
 <br>
