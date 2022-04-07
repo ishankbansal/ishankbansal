@@ -14,8 +14,6 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can do DSA all day 🤪 
 
-<br>
-
 
 
 <h3 align="left">Skills: </h3>
