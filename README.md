@@ -29,10 +29,9 @@
 <img align="left" title="NodeJS" alt="NodeJS" height="35px" src="./logos/nodejs.png" />
 
 <br>
-<br>
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
-<a href="https://www.linkedin.com/in/ishankbansal01/"><img align="left" title="LinkedIn - Yashvardhan Arora" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
+<a href="https://www.linkedin.com/in/ishankbansal01/"><img align="left" title="LinkedIn - Ishank Bansal" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
 <a href="mailto:ishankbansal1111@gmail.com"><img align="left" title="Mail - Ishank Bansal" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
 
 
