@@ -9,7 +9,7 @@
 <h3>About Me:</h3>
 
 <!-- - 🔭 I’m currently working on <a href="https://github.com/Servatom/Shealth"><img src="https://assets.servatom.com/Shealth/logo.png" height="15px"> Shealth</a>  -->
-- 🌱 I’m currently exploring DEV 
+- 🌱 I’m currently exploring React.js
 - 💻 3rd Year CS Undergrad
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can do DSA all day 🤪 
