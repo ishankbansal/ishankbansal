@@ -8,7 +8,7 @@
 
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on <a href="https://ishank-chatapp.netlify.app/">Fly Chat!</a> 
+- 🔭 I’m currently working on <a href="https://ishank-chatapp.netlify.app/">samवाद!</a> 
 - 🌱 I’m currently exploring Redux
 - 💻 Final year CS undergrad
 - 😄 Pronouns: He/Him 
